@@ -12,6 +12,6 @@ function searchStudy() {
         result.innerHTML = "Database materials available!";
     }
     else{
-        result.innerHTML = "No materials found. Try programming, datascience or database.";
+        result.innerHTML = "No materials found. Try Programming, DataScience or Database.";
     }
 }
